@@ -22,7 +22,6 @@
 		간장치킨<input type="radio" name="chicken" value="ganjang">
 		<br><br>
 		<input type="submit" value="주문하기!">
-<!-- #1 -->
 	</form>
 </body>
 </html>
